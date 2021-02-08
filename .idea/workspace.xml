@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="daef26cf-299d-4bd5-8ee8-cba427423185" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/.idea/COP2800_Java_Programming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/Module 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/out/production/Module 1/H1_PizzaShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 1/src/H1_PizzaShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/Example/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/Student.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 2/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/Payroll.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 3/src/Payroll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/Piglatin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 4/src/Piglatin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 5/ClassAverages.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 5/src/ClassAverages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 6/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 6/Player.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 6/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 7/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 7/Enemy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/COP2800_Java_Programming/Module 7/src/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ni9CB39UGf4cfBea7victHrjpn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="daef26cf-299d-4bd5-8ee8-cba427423185" name="Default Changelist" comment="" />
+      <created>1611861916088</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611861916088</updated>
+      <workItem from="1611861917285" duration="25000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
