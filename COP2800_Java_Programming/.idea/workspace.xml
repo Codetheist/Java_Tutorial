@@ -1,7 +1,82 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="7e84002d-90b8-43b0-8588-0d88eabb9c24" name="Default Changelist" comment="" />
+=======
+<<<<<<< HEAD
+    <list default="true" id="00e0e920-0d68-42f8-a913-dfccfb76cfd8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/COP2800_Java_Programming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+=======
+    <list default="true" id="7e84002d-90b8-43b0-8588-0d88eabb9c24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/COP2800_Java_Programming.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/Module 1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/out/production/Module 1/H1_PizzaShop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 1/src/H1_PizzaShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/Example/BankAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/Student.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 2/src/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/Payroll.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 3/src/Payroll.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/Piglatin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 4/src/Piglatin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 5/ClassAverages.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 5/src/ClassAverages.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6/Player.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 6/src/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7/Enemy.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module 7/src/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+>>>>>>> 94fe5720a22253d36ae95d0f94c0f5d7cee85226
+    </list>
+>>>>>>> 4eceefede76dadaeada321bbe815a23727f750c8
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,17 +85,30 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+<<<<<<< HEAD
+  <component name="ProjectId" id="1mwVn7WDnfuZu7KlO9OEKmNC1Hb" />
+=======
   <component name="ProjectId" id="1ni9PC05MLmRbsbpZB2ZeMCRfUe" />
+>>>>>>> 94fe5720a22253d36ae95d0f94c0f5d7cee85226
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+=======
+>>>>>>> 94fe5720a22253d36ae95d0f94c0f5d7cee85226
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+<<<<<<< HEAD
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+=======
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -47,6 +135,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+>>>>>>> 94fe5720a22253d36ae95d0f94c0f5d7cee85226
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -58,6 +147,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
+=======
     <recent_temporary>
       <list>
         <item itemvalue="Application.Student" />
@@ -65,22 +156,38 @@
         <item itemvalue="Application.H1_PizzaShop" />
       </list>
     </recent_temporary>
+>>>>>>> 94fe5720a22253d36ae95d0f94c0f5d7cee85226
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+      <changelist id="00e0e920-0d68-42f8-a913-dfccfb76cfd8" name="Default Changelist" comment="" />
+      <created>1610404828877</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610404828877</updated>
+      <workItem from="1610404842610" duration="1210000" />
+=======
       <changelist id="7e84002d-90b8-43b0-8588-0d88eabb9c24" name="Default Changelist" comment="" />
       <created>1611862019356</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611862019356</updated>
+<<<<<<< HEAD
       <workItem from="1611862020556" duration="2185000" />
+=======
+      <workItem from="1611862020556" duration="2128000" />
+>>>>>>> 94fe5720a22253d36ae95d0f94c0f5d7cee85226
+>>>>>>> 4eceefede76dadaeada321bbe815a23727f750c8
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+<<<<<<< HEAD
+=======
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -92,4 +199,5 @@
       </map>
     </option>
   </component>
+>>>>>>> 94fe5720a22253d36ae95d0f94c0f5d7cee85226
 </project>
