@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e84002d-90b8-43b0-8588-0d88eabb9c24" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/COP2800_Java_Programming.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/Module 1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/out/production/Module 1/H1_PizzaShop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 1/src/H1_PizzaShop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/Example/BankAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/Student.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 2/src/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/Payroll.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 3/src/Payroll.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/Piglatin.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 4/src/Piglatin.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/ClassAverages.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 5/src/ClassAverages.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/Player.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 6/src/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7/Enemy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module 7/src/Enemy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-    </list>
+    <list default="true" id="7e84002d-90b8-43b0-8588-0d88eabb9c24" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -137,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1611862019356</updated>
-      <workItem from="1611862020556" duration="2128000" />
+      <workItem from="1611862020556" duration="2185000" />
     </task>
     <servers />
   </component>
