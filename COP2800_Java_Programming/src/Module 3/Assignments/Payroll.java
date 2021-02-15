@@ -29,7 +29,7 @@ public class Payroll {
             for (int i = 0; i < totalEmployees; i++) {
 
                 int numEmployee[] = new int[totalEmployees];
-                ++numEmployee[i];
+                numEmployee[i] = numEmployee[i] + 1;
 
                 System.out.println("Please enter employee " + numEmployee[i] + "’s monthly pay: ");
                 currentPay = userInput.nextDouble();
@@ -66,4 +66,5 @@ public class Payroll {
         }
 
     }
+
 }
