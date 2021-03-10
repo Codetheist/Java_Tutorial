@@ -44,8 +44,6 @@ public class Piglatin {
 
             // Pig latin translation
 
-            System.out.println(arr.toString());
-
         } finally {
             userInput.close();
         }
