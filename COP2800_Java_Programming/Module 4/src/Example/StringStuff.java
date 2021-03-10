@@ -1,6 +1,19 @@
+import java.util.Scanner;
+import javax.swing.JOptionPane;
+
 public class StringStuff {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        Scanner scan = new Scanner(System.in);
+
+        try {
+
+            String fullName = "Antoine Gustave";
+            String middle = "Denis";
+
+        } finally {
+
+            scan.close();
+        }
     }
 }
