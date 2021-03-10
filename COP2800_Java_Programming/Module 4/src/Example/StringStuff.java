@@ -48,16 +48,15 @@ public class StringStuff {
              */
 
             // Learning to covert Strings into other data type & use a GUI
-            /*
-             * String num1 = JOptionPane.showInputDialog("Enter your first input: "); String
-             * num2 = JOptionPane.showInputDialog("Enter your second input: ");
-             * 
-             * int numOne = Integer.parseInt(num1); int numTwo = Integer.parseInt(num2);
-             * 
-             * System.out.println(numOne + numTwo);
-             * 
-             * JOptionPane.showMessageDialog(null, (numOne + numTwo));
-             */
+
+            String num1 = JOptionPane.showInputDialog("Enter your first input: ");
+            String num2 = JOptionPane.showInputDialog("Enter your second input: ");
+
+            int numOne = Integer.parseInt(num1);
+            int numTwo = Integer.parseInt(num2);
+
+            System.out.println(numOne + numTwo);
+            JOptionPane.showMessageDialog(null, (numOne + numTwo));
 
         } finally {
 
