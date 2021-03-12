@@ -56,13 +56,18 @@ public class PigLatin {
     public void convert() {
         String[] storedWords = originalPhrase.split(" ");
         for (int i = 0; i < storedWords.length; i++) {
-            translatePhrase += translation(storedWords[i] + " ");
+            translatePhrase += translation(storedWords[i]) + " ";
         }
     }
 
     public void translateDisplay() {
 
+        System.out.println();
+
         System.out.println("Your original input: " + originalPhrase);
+
+        System.out.println();
+
         System.out.println("Translated output: " + translatePhrase);
     }
 
